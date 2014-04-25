@@ -15,4 +15,4 @@ SUBDIRS = migs
 
 EXTRA_DIST = README login.radius
 
-sbin_SCRIPTS = login.radius
+#sbin_SCRIPTS = login.radius
